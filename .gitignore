@@ -2,3 +2,4 @@
 *.iml
 target
 resources/api.properties
+App*
